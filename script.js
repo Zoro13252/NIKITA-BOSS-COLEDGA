@@ -28,3 +28,6 @@ const getRectangleString = (width, height) => {
     }
     return result.trim();
 }
+
+        res = ('Никита-ЛОХ ').repeat(100);
+        console.log(res);
